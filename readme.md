@@ -1,4 +1,4 @@
-#<h1> Webinfo request </h1>
+#<h1> Password generator </h1>
 ###<h4>Functies:</h4>
 
 * Pull IP from domain
